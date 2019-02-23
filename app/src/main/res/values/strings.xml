@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intern DCR</string>
+    <string name="l1">PG/Sample</string>
+    <string name="pg">Product group</string>
+    <string name="l2">Literature</string>
+    <string name="l3">Physician sample</string>
+    <string name="l4">Gift</string>
+    <string name="l5">Accompanied with</string>
+    <string name="l6">Remarks</string>
+    <string name="sub">Submit</string>
+</resources>
